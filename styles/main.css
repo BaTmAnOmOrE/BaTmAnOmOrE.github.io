@@ -1,0 +1,28 @@
+body{
+  background-color: darkgreen;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  
+}
+h1{
+  font-size: 50pt;
+}
+
+h2{
+font-size:30pt;
+}
+
+H3{
+font-size:25pt;
+}
+
+p{font-family: 'Ms Madi', cursive;
+  font-size: 20pt;
+}
+
+.red-text{
+color:red
+}
+
+ 
+
