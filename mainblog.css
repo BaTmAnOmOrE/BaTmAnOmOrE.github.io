@@ -61,4 +61,5 @@ h2{
 .border-red{
     border-style:solid;
     border-color:red;
+    border-block-start-width:medium
    }
