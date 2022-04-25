@@ -1,29 +1,69 @@
-body{
-  background-color: darkgreen;
-  text-align: center;
-  font-family: 'Bebas Neue', cursive;
-  
-}
-h1{
-  font-size: 50pt;
-}
 
-h2{
-font-size:30pt;
-}
 
-H3{
-font-size:25pt;
-}
-
-p{font-family: 'Ms Madi', cursive;
-  font-size: 20pt;
+body
+{
+  background-color:bisque;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 30px;
   text-align: left;
+}
+h1 {
+  margin-top: 15%;
+  font-family: 'Lora', serif; 
+  font-size: 50px;
+  text-align: center;
 }
 
 .red-text{
-color:red
+color:red;
 }
 
- 
+.cyan-text{
+color: cyan;
+}
 
+.green-text{
+color: green;  
+}
+
+.center{
+  display: ruby-base;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 15px;
+}
+
+.container{
+    padding-top    : 0;
+    padding-bottom : 0;
+    height      : 75px;
+    line-height : 75px;
+}
+
+h2{
+  margin-top: 15px;
+  font-family: 'Lora', serif; 
+  font-size: 50px;
+  text-align: center;
+  line-height : 75px;
+}
+
+.border-red{
+    border-style:solid;
+    border-color:red;
+    border-block-start-width:medium
+   }
+
+   .vertical-list{
+    width: 200px;
+   }
